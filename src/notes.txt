@@ -1,0 +1,7 @@
+- loan is slightly broken as if there are two copies with same title and one is loaned, you are unable to loan other one
+- it might be nice to loan based on title and format (no good loaning sims 4 on PC if i have a PS4)
+- eventually display all games on window and allow filtering 
+    - also gui for all methods like loan, add, remove etc.
+- deleting a game messes us the indices which are also the identifiers for game copies. meaning that they change when they shouldnt. i need to find a better system for creating ID values.
+
+
